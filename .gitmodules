@@ -7,3 +7,9 @@
 [submodule "clients"]
 	path = clients
 	url = https://github.com/Daniela-Estupinan/chat-bot-client
+[submodule "Server"]
+	path = Server
+	url = https://github.com/Daniela-Estupinan/chat-bot-server
+[submodule "Servers"]
+	path = Servers
+	url = https://github.com/Daniela-Estupinan/chat-bot-server
