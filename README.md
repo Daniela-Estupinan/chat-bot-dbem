@@ -10,8 +10,8 @@ Link video
 [Deployado-DanielaEstupinan]()
 
 ### Repositories
-[Client-Frontend](https://github.com/Daniela-Estupinan/chat-bot-client/tree/e9295081f21cea06fc181cc782f0c877f1d9eb27).
-[Server -Backend](https://github.com/Daniela-Estupinan/chat-bot-server/tree/09f0400f7911ab4b6e652865a49c6cbae31c193a).
+- [Client-Frontend](https://github.com/Daniela-Estupinan/chat-bot-client/tree/e9295081f21cea06fc181cc782f0c877f1d9eb27).
+- [Server -Backend](https://github.com/Daniela-Estupinan/chat-bot-server/tree/09f0400f7911ab4b6e652865a49c6cbae31c193a).
 
 
 ## Deployment
