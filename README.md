@@ -1,7 +1,7 @@
 # Chat Bot AI
 
-Chat bot automatico usando un ai, consiste en un chat donde se recibe respuestas de manera automatica
-También hay un video de como deployar la aplicación en Netlify y Heroku
+- Chat bot automatico usando un ai, consiste en un chat donde se recibe respuestas de manera automatica
+- También hay un video de como deployar la aplicación en Netlify y Heroku
 
 Link proyecto deployado
 [Netlify-Chat Bot](https://benevolent-nougat-dec160.netlify.app/).
